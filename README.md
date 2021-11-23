@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @czrk07
 - 👀 I’m interested in https://www.youtube.com/watch?v=dQw4w9WgXcQ
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning maths, physics and C#.
+
 
 <!---
 czrk07/czrk07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
