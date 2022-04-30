@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @czrk07
 - 👀 I’m interested in https://www.youtube.com/watch?v=dQw4w9WgXcQ
-- 🌱 I’m currently learning maths, physics and C#.
+- 🌱 I’m currently learning maths, physics and js.
+- 
 
 
 <!---
